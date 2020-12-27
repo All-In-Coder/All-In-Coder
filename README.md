@@ -1,6 +1,6 @@
 ### Hi there, I'm Punit 👋
 
-## I'm a Studemt, Competitve Programmer, Developer, and Machine Learning Enthusiast!!
+## I'm a Student, Competitve Programmer, Developer, and Machine Learning Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Internship/Jobs in SDE
