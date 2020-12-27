@@ -32,6 +32,7 @@
 
 <br />
 <br />
+---
 
 [linkedin]: https://www.linkedin.com/in/punit-tiwari-610793183/
 [github]: https://github.com/All-In-Coder
