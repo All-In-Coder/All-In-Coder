@@ -1,10 +1,10 @@
 ### Hi there, I'm Punit 👋
 
-## I'm a Student, Competitive Programmer, Developer, and Machine Learning Enthusiast!!
+## I'm a Software Engineer, Competitive Programmer, Developer, and Machine Learning Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for Internship/Jobs in SDE
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking for Jobs in SDE. Worked with Amazon
+- 🥅 2024 Goals: Become best version of yourself
 
 ### Connect with me:
 
