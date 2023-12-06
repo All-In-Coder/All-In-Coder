@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Jobs in SDE. Worked with Amazon
-- 🥅 2024 Goals: Become best version of yourself
+- 🥅 2024 Goals: Become the best version of yourself
 
 ### Connect with me:
 
